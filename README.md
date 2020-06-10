@@ -1,2 +1,2 @@
 # Web-Scraping-with-Python
-Scaping data tables from various website using BeautifulSoup4 in Jupyter Notebook
+This repository was created to demostrate how to demonstrate how to scape data tables from various websites using BeautifulSoup4.
